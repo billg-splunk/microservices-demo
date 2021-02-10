@@ -1,3 +1,6 @@
+*** [For the Splunk Observability Labs, click here](splunk/README.md) ***
+
+---
 <p align="center">
 <img src="src/frontend/static/icons/Hipster_HeroLogoCyan.svg" width="300"/>
 </p>
